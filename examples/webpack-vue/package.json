@@ -20,9 +20,9 @@
     "sass-loader": "^8.0.0",
     "vue": "2.6.10",
     "vue-loader": "^15.7.1",
-    "vue-template-compiler": "2.6.10",
-    "webpack": "^4.41.1",
-    "webpack-dev-middleware": "^3.7.2",
+    "vue-template-compiler": "2.7.16",
+    "webpack": "^5.95.0",
+    "webpack-dev-middleware": "^5.3.4",
     "webpack-hot-middleware": "2.25.0"
   },
   "dependencies": {
