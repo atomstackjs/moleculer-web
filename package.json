@@ -49,7 +49,7 @@
     "jest-cli": "^27.2.5",
     "jsonwebtoken": "^9.0.2",
     "mime-types": "^2.1.33",
-    "mkdirp": "^1.0.4",
+    "mkdirp": "^3.0.1",
     "moleculer": "github:moleculerjs/moleculer#next",
     "moleculer-repl": "^0.7.0",
     "nats": "^2.2.0",
@@ -58,7 +58,7 @@
     "spdy": "^4.0.2",
     "supertest": "^6.1.6",
     "webpack": "^5.88.1",
-    "webpack-dev-middleware": "^5.2.1"
+    "webpack-dev-middleware": "^7.4.2"
   },
   "peerDependencies": {
     "moleculer": "^0.13.0 || ^0.14.0 || ^0.15.0"
